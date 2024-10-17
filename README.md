@@ -1,2 +1,2 @@
-# Learning_QComp
-This is my personal journey to learn Qiskit and QuTip 
+# Learning_Stuff
+This is my personal journey to learn various contents. 
